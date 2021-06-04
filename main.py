@@ -1,5 +1,5 @@
 from typing import Sized
-from openpyxl import Workbook, load_workbook
+#from openpyxl import Workbook, load_workbook
 import sys
 from colorama import Fore, Back, Style
 import re
@@ -7,7 +7,7 @@ import re
 def main():
 
     if(len(sys.argv) != 3):
-        print(Fore.RED + "Command Error: py main.py <path_excel_file.xls> <path_cpe_list_file.txt>")
+        print(Fore.RED + "Command Error: py main.py <path_file_output.txt> <path_cpe_list_file.txt>")
         print(Style.RESET_ALL)
         return 1
     
