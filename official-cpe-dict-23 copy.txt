@@ -1,0 +1,8 @@
+cpe:2.3:a:skype:skype:-:*:*:*:*:*:*:*
+cpe:2.3:a:skype:skype:0.90.0.5:beta:*:*:*:*:*:*
+cpe:2.3:a:skype:skype:0.90.0.10:beta:*:*:*:*:*:*
+cpe:2.3:a:skype:skype:0.91.0.2:beta:*:*:*:*:*:*
+cpe:2.3:a:skype:skype:0.92.0.4:beta:*:*:*:*:*:*
+cpe:2.3:a:skype:skype:0.93.0.18:beta:*:*:*:*:*:*
+cpe:2.3:a:skype:skype:0.93.1.1:beta:*:*:*:*:*:*
+cpe:2.3:a:skype:skype:0.94.0.19:beta:*:*:*:*:*:*
